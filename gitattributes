@@ -1,7 +1,0 @@
-*.sql linguist-language=SQL
-
-* linguist-language=SQL
-
-*.md linguist-documentation
-*.txt linguist-documentation
-README* linguist-documentation
