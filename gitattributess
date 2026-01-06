@@ -1,0 +1,10 @@
+# تشخیص زبان SQL به عنوان زبان اصلی پروژه
+*.sql linguist-language=SQL
+
+# برای پروژه‌های SQL خالص (اگر فقط فایل SQL دارید)
+* linguist-language=SQL
+
+# نادیده گرفتن فایل‌های غیر SQL (اگر وجود دارند)
+*.md linguist-documentation
+*.txt linguist-documentation
+README* linguist-documentation
